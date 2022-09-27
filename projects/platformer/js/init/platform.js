@@ -14,7 +14,7 @@
    *
    * createPlatform() takes these arguments:
    *
-   *      createPlatform(x, y, scaleX, scaleY);
+   *      createPlatform(500, 500, 0.3, 10);
    *
    *      x: The x coordineate for the platform.
    *      y: The y coordineate for the platform.
